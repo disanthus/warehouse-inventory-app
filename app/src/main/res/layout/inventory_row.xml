@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFBFB"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/rowItemName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:padding="10dp"
+        android:text="Perfume"
+        android:textColor="#292831"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/rowItemQuantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="10"
+        android:textColor="#292831"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/rowItemLocation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="A000"
+        android:textColor="#292831"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/rowDeleteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:textSize="12sp" />
+
+</LinearLayout>
