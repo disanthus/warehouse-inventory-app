@@ -1,3 +1,16 @@
+## Warehouse Inventory Android App
+An Android inventory management application developed using Java, Android Studio, and SQLite. 
+Created as a project for my SNHU CS-360 class.
+
+## Technologies
+
+- Java
+- Android Studio
+- SQLite
+- Android RecyclerView
+- Android SMS/permissions APIs
+- 
+## Course Reflection
 Q. Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 This app was designed to address the need to keep track of inventory in a warehouse. 
@@ -28,4 +41,4 @@ A challenge I ran into is the SMS notification component. Since I was testing my
 
 Q. In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
-I'm not super comfortable with databases yet, so being able to connect one to a functioning mobile interface and have its data persist after close made me feel quite successful!
+I was not very confident with databases when I started this course, and this project gave me practical experience connecting SQLite to an Android application!
