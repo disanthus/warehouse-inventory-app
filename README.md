@@ -9,7 +9,7 @@ Created as a project for my SNHU CS-360 class.
 - SQLite
 - Android RecyclerView
 - Android SMS/permissions APIs
-- 
+
 ## Course Reflection
 Q. Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
@@ -42,3 +42,10 @@ A challenge I ran into is the SMS notification component. Since I was testing my
 Q. In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
 I was not very confident with databases when I started this course, and this project gave me practical experience connecting SQLite to an Android application!
+
+## Screenshots
+
+<img width="613" height="1246" alt="image" src="https://github.com/user-attachments/assets/5670afcf-e00f-4f41-8449-c5f1278df9c4" />
+<img width="523" height="1191" alt="image" src="https://github.com/user-attachments/assets/48dfbe89-3f33-4af6-9329-e5557ff1e75d" />
+<img width="570" height="1232" alt="image" src="https://github.com/user-attachments/assets/88d2c0ae-7151-4550-aee6-3723a599b12a" />
+<img width="586" height="1232" alt="image" src="https://github.com/user-attachments/assets/098796ff-7c7f-4426-9331-0e69abc87aab" />
