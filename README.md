@@ -2,7 +2,7 @@
 An Android inventory management application developed using Java, Android Studio, and SQLite. 
 Created as a project for my SNHU CS-360 class.
 
-## Technologies
+## Technologies Used
 
 - Java
 - Android Studio
